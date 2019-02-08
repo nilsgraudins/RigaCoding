@@ -149,7 +149,7 @@ namespace Day6
                     skaits++;
                 }
             }
-            Console.WriteLine("Skaitlis 5 atrasts {0} reizes", skaits);
+            Console.WriteLine("Skaitlis ir 5 atrasts {0} reizes", skaits);
 
             // 2. variants
             skaits = saraksts.Count(sk => sk == 5);
