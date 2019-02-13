@@ -35,7 +35,7 @@ namespace D1_uzdevumi
             int summa = skaitlis1 + skaitlis2;
             int starpiba = skaitlis1 - skaitlis2;
             int reizinajums = skaitlis1 * skaitlis2;
-            float dalijums = skaitlis1 / (float)skaitlis2; //vai skaitlis2f
+            float dalijums = skaitlis1 / (float)skaitlis2; //vai (cipars)f
 
 
             Console.WriteLine("Skaitlu summa ir " + summa);
